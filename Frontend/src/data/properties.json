@@ -1,38 +1,50 @@
 [
   {
     "Id": 1,
+    "SellorRent": 1,
     "Name": "House Stark",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "Image": "Stark"
   },
   {
     "Id": 2,
+    "SellorRent": 2,
     "Name": "House Lannister",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "Image": "Lannister"
   },
   {
     "Id": 3,
+    "SellorRent": 1,
     "Name": "House Tyrell",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "Image": "Tyrell"
   },
   {
     "Id": 4,
+    "SellorRent": 1,
     "Name": "House Martell",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "Image": "Martell"
   },
   {
     "Id": 5,
+    "SellorRent": 1,
     "Name": "House Targaryen",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "Image": "Targaryen"
   },
   {
     "Id": 6,
+    "SellorRent": 1,
     "Name": "House Baratheon",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "Image": "Baratheon"
   }
 ]
